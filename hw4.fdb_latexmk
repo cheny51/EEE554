@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1665559003 "/Users/cheny51/RepoDoc/EEE554/hw4.tex" "hw4.pdf" "hw4" 1665559004
-  "/Users/cheny51/RepoDoc/EEE554/hw4.tex" 1665559002 5934 40e6ffea84ba128133554b74be04cc2e ""
+["pdflatex"] 1665732135 "/Users/cheny51/RepoDoc/EEE554/hw4.tex" "hw4.pdf" "hw4" 1665732136
+  "/Users/cheny51/RepoDoc/EEE554/hw4.tex" 1665732134 5910 f417cb716959ecff817f98c47cd58441 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -60,8 +60,8 @@
   "HW/HW4/p1c_case1.jpg" 1665555663 121658 483890adf4005d347ebd6cc1b9fb9944 ""
   "HW/HW4/p1c_case2.jpg" 1665555685 111972 56bbf9f96e6ee6af049cdedcabfa47c8 ""
   "HW/HW4/p1c_fw.jpg" 1665554833 66825 a5904229801a4b3bb26f6899fcc01d79 ""
-  "hw4.aux" 1665559004 752 4be7f33106313af7a454bc28a905e091 "pdflatex"
-  "hw4.tex" 1665559002 5934 40e6ffea84ba128133554b74be04cc2e ""
+  "hw4.aux" 1665732136 752 4be7f33106313af7a454bc28a905e091 "pdflatex"
+  "hw4.tex" 1665732134 5910 f417cb716959ecff817f98c47cd58441 ""
   (generated)
   "hw4.aux"
   "hw4.log"
